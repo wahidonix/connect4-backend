@@ -1,0 +1,43 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dependency directories
+node_modules/
+
+# Environment variables
+.env
+
+# Build files
+dist/
+build/
+
+# Coverage directory for testing
+coverage/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Editor specific files
+.vscode/
+.idea/
+*.swp
+
+# Optional npm cache directory
+.npm/
+
+# Optional eslint cache
+.eslintcache
+
+# Optional REPL history
+node_repl_history
+
+# Parcel-bundler cache
+.cache/
+
+# TSC output
+*.tsbuildinfo
